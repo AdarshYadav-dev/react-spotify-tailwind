@@ -3,18 +3,18 @@
 A clean and modern **Spotify clone UI** built using **React.js** and **Tailwind CSS**.  
 This project focuses on creating a visually appealing and responsive Spotify-style interface with reusable components and smooth layout.
 
-> 🚧 **Project Status:** In Progress (UI development ongoing — more pages & features coming soon)
+> **Project Status:** In Progress (UI development ongoing — more pages & features coming soon)
 
 ---
 
-## 🚀 Features (Completed So Far)
+##  Features (Completed So Far)
 
-- 🎨 Modern Spotify-inspired UI  
-- 📱 Fully responsive layout  
-- 🧩 Reusable React components  
-- ⚡ Fast Tailwind CSS styling  
-- 🔄 Smooth navigation structure  
-- 🌑 Dark-themed Spotify design  
+-  Modern Spotify-inspired UI  
+-  Fully responsive layout  
+-  Reusable React components  
+-  Fast Tailwind CSS styling  
+-  Smooth navigation structure  
+-  Dark-themed Spotify design  
 
 ---
 
@@ -26,16 +26,15 @@ This project focuses on creating a visually appealing and responsive Spotify-sty
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React.js**
 - **Tailwind CSS**
-- **Vite / CRA** (whichever you used)
 - **JavaScript (ES6+)**
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```sh
 # Clone the repo
