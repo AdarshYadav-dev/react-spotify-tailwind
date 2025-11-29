@@ -1,4 +1,4 @@
-# React Spotify Tailwind 🎵
+# React Spotify Tailwind 
 
 A clean and modern **Spotify clone UI** built using **React.js** and **Tailwind CSS**.  
 This project focuses on creating a visually appealing and responsive Spotify-style interface with reusable components and smooth layout.
